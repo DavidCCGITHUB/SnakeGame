@@ -41,7 +41,8 @@ To play the game locally:
    ```
 ## Requirements
 
-Installed Python 3
+- Installed Python 3
+- Installed module turtle
 
 ## License
 
