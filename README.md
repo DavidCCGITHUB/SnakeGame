@@ -29,7 +29,9 @@ To play the game locally:
 3. Run the game:
    ```bash
    python main.py
+   ```
    or
+   ```bash
    python3 main.py
    ```
 ## Requirements
